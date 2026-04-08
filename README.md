@@ -65,14 +65,15 @@ Keys `1–5` / `QWER` set the start shape. Keys `6–0` / `ASDF` set the end sha
 |---|---|
 | `1–5` / `QWER` | Set start shape |
 | `6–0` / `ASDF` | Set end shape |
-| `Enter` | Start morph |
-| `X` | Enter custom draw mode (click points, Enter to finish) |
+| `Space` | Start morph |
+| `Backspace` | Reset |
+| `X` | Enter custom draw mode (click points, Space to morph, Enter to finish drawing) |
 | Arrow Up/Down | Wave frequency |
 | Arrow Left/Right | Wave amplitude |
 | Scroll | Morph speed |
-| `G` | Toggle wave force on/off |
-| `H` | Toggle wave visualization |
-| `T` | Toggle deviant vertex culling |
+| `G` | Toggle wave field visualization |
+| `H` | Toggle wave force on/off |
+| `T` | Toggle vertex trails |
 
 ---
 
